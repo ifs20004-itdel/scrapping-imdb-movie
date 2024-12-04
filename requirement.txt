@@ -1,0 +1,12 @@
+To use this code, you will need several python library, such that:
+- beautifulsoup4
+
+    ``` pip install beautifulsoup4 ```
+
+- selenium python
+
+    ``` pip install selenium
+
+- chromedriver (make sure to have a chrome driver that match with your browser)
+link download: https://developer.chrome.com/docs/chromedriver/downloads
+other reference: https://googlechromelabs.github.io/chrome-for-testing/#stable
